@@ -9,37 +9,11 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/rocboss/paopao-ce">
-    <img src="https://cdn.rocs.me/static/paopao-logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">PaoPao</h3>
+  <h3 align="center">Bberbit</h3>
 
-  <p align="center">
-    🔥一个清新文艺的微社区
-    <br />
-    <a href="https://www.paopao.info/">View Demo</a>
-    ·
-    <a href="https://github.com/rocboss/paopao-ce/pulls">Pull Request</a>
-    ·
-    <a href="https://www.yuque.com/rocs/paopao/about">Features</a>
-  </p>
 </div>
 
----
-
-## 预览
-Web端：  
-[![明色主题][product-light-screenshot]](https://www.paopao.info)
-
-[![暗色主题][product-dark-screenshot]](https://www.paopao.info)
-
-更多演示请前往[官网](https://www.paopao.info)体验（谢绝灌水）  
-
-桌面端：  
-![](.github/desktop-tauri.jpeg)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## 🛠 技术栈
 
@@ -75,7 +49,7 @@ PaoPao主要由以下优秀的开源项目/工具构建
 克隆代码库
 
    ```sh
-   git clone https://github.com/rocboss/paopao-ce.git
+   git clone https://github.com/dalaohu888/bberbit.git
    ```
 
 #### 后端
